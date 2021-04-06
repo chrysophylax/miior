@@ -1,7 +1,7 @@
 # miIO(r) Device Library
 
-[![npm version](https://badge.fury.io/js/miio.svg)](https://badge.fury.io/js/miio)
-[![Dependencies](https://david-dm.org/aholstenson/miio.svg)](https://david-dm.org/aholstenson/miio)
+[![npm version](https://badge.fury.io/js/miior.svg)](https://badge.fury.io/js/miior)
+[![Dependencies](https://david-dm.org/chrysophylax/miior.svg)](https://david-dm.org/chrysophylax/miior)
 
 This project is a continuation of [aholstenson/miio](https://github.com/aholstenson/miio) which appears to have been abandoned. I am merging in all the open PRs that I can and updating dependencies.
 
