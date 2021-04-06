@@ -51,13 +51,13 @@ to help this library with support for your device.
 To install into your project:
 
 ```
-npm install miio
+npm install miior
 ```
 
 To install globally for access to the command line tool:
 
 ```
-npm install -g miio
+npm install -g miior
 ```
 
 ## Usage
