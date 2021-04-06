@@ -1,11 +1,19 @@
-# miIO Device Library
+# miIO(r) Device Library
 
 [![npm version](https://badge.fury.io/js/miio.svg)](https://badge.fury.io/js/miio)
 [![Dependencies](https://david-dm.org/aholstenson/miio.svg)](https://david-dm.org/aholstenson/miio)
 
+This project is a continuation of [aholstenson/miio](https://github.com/aholstenson/miio) which appears to have been abandoned. I am merging in all the open PRs that I can and updating dependencies.
+
+The reason for the difference in project names is simple - I needed to distinguish the new package from the original. Nothing else is changed so the API remains the same. (Why r? See [this](https://en.wikipedia.org/wiki/Erhua).)
+
+Below follows the original README.md text which explains the project quite well.
+
+# Previously on README.md
 Control Mi Home devices that implement the miIO protocol, such as the
 Mi Air Purifier, Mi Robot Vacuum and Mi Smart Socket. These devices are commonly
 part of what Xiaomi calls the Mi Ecosystem which is branded as MiJia.
+
 
 `miio` is [MIT-licensed](LICENSE.md) and requires at least Node 6.6.0. As
 the API is promise-based Node 8 is recommended which provides support `async`
